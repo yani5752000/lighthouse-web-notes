@@ -71,3 +71,9 @@ Add a Title
 Let's start by adding a title to our README. Insert the following Markdown code as the first line of your README file.
 
 # Farid Asadpour's Notes
+
+## Summary 
+
+This repository contains all of the notes taken by [Your Name] for the Lighthouse Labs Web Development Bootcamp.
+
+....taken by [Farid Asadpour](https://github.com/yani5752000) for the [Lighthouse Labs](https://www.lighthouselabs.ca/)
