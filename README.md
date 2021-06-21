@@ -77,3 +77,7 @@ Let's start by adding a title to our README. Insert the following Markdown code 
 This repository contains all of the notes taken by [Your Name] for the Lighthouse Labs Web Development Bootcamp.
 
 ....taken by [Farid Asadpour](https://github.com/yani5752000) for the [Lighthouse Labs](https://www.lighthouselabs.ca/)
+
+## Table of Contents
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
